@@ -4,7 +4,7 @@ describe('Google Test', () => {
     })
 
     it('Comprueba si carga la imagen en la página', () => {
-        cy.get('[src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"]')
+        cy.get('[src="/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"]')
     })
 
     it('Comprueba que el título contiene "Google"', () => {
