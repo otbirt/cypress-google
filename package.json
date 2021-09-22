@@ -1,0 +1,14 @@
+{
+  "name": "test-cypress",
+  "version": "1.0.0",
+  "description": "Prueba Irontec",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "Oscar T",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.4.1"
+  }
+}
